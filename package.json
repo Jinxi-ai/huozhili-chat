@@ -1,0 +1,13 @@
+{
+  "name": "huozhili-chat",
+  "version": "1.0.0",
+  "description": "霍知礼网页聊天站（Render 部署用）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
